@@ -10,7 +10,7 @@ Here we list resources for students or researchers who want to start to solve an
 `QuantEcon <https://lectures.quantecon.org/>`_
 ==============================================
 
-`QuantEcon <https://lectures.quantecon.org/py/>`_ is an initiative by `Thomas J. Sargent<http://www.tomsargent.com/>`_ and `John Stachurski <http://johnstachurski.net/>`_. It is very well suited for inexperienced programmers. Besides explaining some components of structural models in detailed and simple to follow tutorials, it also teaches the basics of Python and Julia.
+`QuantEcon <https://lectures.quantecon.org/py/>`_ is an initiative by `Thomas J. Sargent <http://www.tomsargent.com/>`_ and `John Stachurski <http://johnstachurski.net/>`_. It is very well suited for inexperienced programmers. Besides explaining some components of structural models in detailed and simple to follow tutorials, it also teaches the basics of Python and Julia.
 
 
 The most notable links you should check out are:
@@ -95,7 +95,7 @@ Estimagic is a Python package that helps to build high-quality and user friendly
 
 It is designed with large structural models in mind. However, it is also useful for any other estimator that numerically minimizes or maximizes a criterion function (Extremum Estimator). Examples are maximum likelihood estimation, generalized method of moments, method of simulated moments and indirect inference.
 
-Currently we mainly provide a large collection of numerical optimizers. For example we wrap the optimizers from `PYGMO<https://esa.github.io/pagmo2/>`_ and `Scipy<https://docs.scipy.org/doc/scipy/reference/optimize.html>`_ and are working on the support for optimizers from the `Toolkit for Advanced Optimization <https://www.mcs.anl.gov/petsc/petsc-current/docs/manualpages/Tao/>`_
+Currently we mainly provide a large collection of numerical optimizers. For example we wrap the optimizers from `PYGMO <https://esa.github.io/pagmo2/>`_ and `Scipy <https://docs.scipy.org/doc/scipy/reference/optimize.html>`_ and are working on the support for optimizers from the `Toolkit for Advanced Optimization <https://www.mcs.anl.gov/petsc/petsc-current/docs/manualpages/Tao/>`_
 
 
 The main advantage of using those optimizers via estimagic are:
@@ -131,7 +131,7 @@ The main features of Econ-ARK are:
 `HARK <https://github.com/econ-ark/HARK>`_
 ------------------------------------------
 
-The `Heterogeneous Agents Resources and Toolkit <>`_ (HARK) is motivated by a sense that quantitative structural modeling of economic agents' behavior (consumers; firms), at present, is roughly like econometric modeling in the 1960s: Lots of theoretical results are available and a great deal can be done in principle, but actually using such tools for any specific research question requires an enormous investment of a scholar's time and attention to learn techniques that are fundamentally not related to economics but instead are algorithmic/computational (in the 1960s, e.g., inverting matrices; now, e.g., solving dynamic stochastic optimization problems). The toolkit is built using the suite of open source, transparent tools for collaborative software development that have become ubiquitous in other fields in the last few years: Github, object-oriented coding, and methods that make it much easier to produce plug-and-play software modules that can be (relatively) easily combined, enhanced and adapted to address new problems.
+The `Heterogeneous Agents Resources and Toolkit (HARK) <https://github.com/econ-ark/HARK>`_ is motivated by a sense that quantitative structural modeling of economic agents' behavior (consumers; firms), at present, is roughly like econometric modeling in the 1960s: Lots of theoretical results are available and a great deal can be done in principle, but actually using such tools for any specific research question requires an enormous investment of a scholar's time and attention to learn techniques that are fundamentally not related to economics but instead are algorithmic/computational (in the 1960s, e.g., inverting matrices; now, e.g., solving dynamic stochastic optimization problems). The toolkit is built using the suite of open source, transparent tools for collaborative software development that have become ubiquitous in other fields in the last few years: Github, object-oriented coding, and methods that make it much easier to produce plug-and-play software modules that can be (relatively) easily combined, enhanced and adapted to address new problems.
 
 
 `REMARK <https://github.com/econ-ark/REMARK>`_
@@ -146,14 +146,3 @@ Types of content include (see below for elaboration):
 - Explorations: Use the Econ-ARK/HARK toolkit to demonstrate some set of modeling ideas
 - Replications: Attempts to replicate the results of published papers written using other tools
 - Reproductions: Code that reproduces the results of some paper that was originally written using the toolkit
-
-
-
-
-
-
-
-
-
-
-
