@@ -9,7 +9,7 @@ The primary goals of the project are:
 - to accelerate the development of this kind of modeling for policy-making and academic research
 - to increase the openness, replicability, and interoperability of modeling tools.
 
-Econ-Ark is headed by Christopher D. Carroll, Professor of Economics at the Johns Hopkins University.
+Econ-Ark is headed by `Christopher D. Carroll <https://econ.jhu.edu/directory/christopher-carroll/>`_, Professor of Economics at the Johns Hopkins University.
 
 Originally, Econ-ARK was mainly targeted at macroeconomic applications, but is now extending their tools to support typical microeconomic models.
 
@@ -25,8 +25,6 @@ The `Heterogeneous Agents Resources and Toolkit (HARK) <https://github.com/econ-
 ----------------------------------------------
 
 This is the resting place for self-contained and complete projects written using the Econ-ARK. The content here should be executable by anyone with a suitably configured computer (see "Installation.md" in this directory).
-
-Each project lives in its own subdirectory in the REMARKs directory
 
 Types of content include (see below for elaboration):
 
