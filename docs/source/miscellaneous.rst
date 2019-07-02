@@ -3,8 +3,8 @@ Miscellaneous
 
 In this section we present some additional resources as well as a short list of relevant literature contributions.
 
-Scientific Programming:
------------------------
+Scientific Programming
+----------------------
 
 `Scipy Lecture Notes <https://scipy-lectures.org/>`_
 *****************************************************

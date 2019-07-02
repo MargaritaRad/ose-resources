@@ -16,10 +16,10 @@ The core Python language is not designed for scientific computing. Instead, this
 
 * `Numpy: <https://docs.scipy.org/doc/numpy/>`_ provides multi-dimensional arrays and functions to work on them.
 
-* `Matplotlib: <https://matplotlib.org/>` simple plotting in Python. While it is good to understand the basics of matplotlib, we would suggest that users use the much simpler seaborn library that builds on top of matplotlib and produces beautiful graphs out of the box
+* `Matplotlib: <https://matplotlib.org/>`_ simple plotting in Python. While it is good to understand the basics of matplotlib, we would suggest that users use the much simpler seaborn library that builds on top of matplotlib and produces beautiful graphs out of the box
 
-* `Scipy: <https://docs.scipy.org/doc/scipy-1.3.0/reference/>` Toolkit for scientific computing. Examples are optimization, numerical integration and random number generation.
-Numba: A just in time compiler for Python that can make Python about as fast as Fortran or C. Seriously, try it out. It's amazing!
+* `Scipy: <https://docs.scipy.org/doc/scipy-1.3.0/reference/>`_ Toolkit for scientific computing. Examples are optimization, numerical integration and random number generation.
+`Numba: <https://numba.pydata.org/numba-doc/latest/index.html>`_ A just in time compiler for Python that can make Python about as fast as Fortran or C. Seriously, try it out. It's amazing!
 
 `Dynamic Programming <https://lectures.quantecon.org/py/index_dynamic_programming.html>`_
 ---------------------------------------------------------------------------------------------------------
