@@ -3,6 +3,8 @@ Bibliography
 
         Abbring, J. H.  and Heckman J. J. (2007). `Econometric Evaluation of Social Programs, Part III: Distributional Treatment Effects, Dynamic Treatment Effects, Dynamic Discrete Choice, and General Equilibrium Policy Evaluation. <https://www.sciencedirect.com/science/article/pii/S1573441207060722>`_ In J. J. Heckman & E. E. Leamer (Eds.), *Handbook of Econometrics* (Vol. 6B, p. 5145 - 5303). Elsevier Science.
 
+        Aguirregabiria, V. and Mira, P. (2010). `Dynamic Discrete Choice Structural Models: A Survey. <https://www.sciencedirect.com/science/article/pii/S0304407609001985>`_, *Journal of Econometrics*, 156(1): 38 - 67
+
         Blundell R., Dias, M. C. , Meghir C. and Shaw, J. (2016). `Female Labor Supply, Human Capital, and Welfare Reform. <https://doi.org/10.3982/ECTA11576>`_ *Econometrica*, 84(5): 1705 - 1753.
 
         DellaVigna, S. (2018). `Chapter 7 - Structural Behavioral Economics. <http://www.sciencedirect.com/science/article/pii/S235223991830006X>`_ In B. D. Bernheim, S. DellaVigna and D. Laibson (Eds.), *Handbook of Behavioral Economics - Foundations and Applications 1* (Vol. 1, p. 613 - 723), Elsevier.

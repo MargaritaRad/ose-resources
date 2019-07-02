@@ -14,11 +14,11 @@ This will guide you through the set-up of Python on your computer, explain the b
 
 The core Python language is not designed for scientific computing. Instead, this is delegated to other packages. Here you will get an overview of the main Python packages you will need:
 
-* Numpy: provides multi-dimensional arrays and functions to work on them.
+* `Numpy: <https://docs.scipy.org/doc/numpy/>`_ provides multi-dimensional arrays and functions to work on them.
 
-* Matplotlib: simple plotting in Python. While it is good to understand the basics of matplotlib, we would suggest that users use the much simpler seaborn library that builds on top of matplotlib and produces beautiful graphs out of the box
+* `Matplotlib: <https://matplotlib.org/>` simple plotting in Python. While it is good to understand the basics of matplotlib, we would suggest that users use the much simpler seaborn library that builds on top of matplotlib and produces beautiful graphs out of the box
 
-* Scipy: Toolkit for scientific computing. Examples are optimization, numerical integration and random number generation.
+* `Scipy: <https://docs.scipy.org/doc/scipy-1.3.0/reference/>` Toolkit for scientific computing. Examples are optimization, numerical integration and random number generation.
 Numba: A just in time compiler for Python that can make Python about as fast as Fortran or C. Seriously, try it out. It's amazing!
 
 `Dynamic Programming <https://lectures.quantecon.org/py/index_dynamic_programming.html>`_
