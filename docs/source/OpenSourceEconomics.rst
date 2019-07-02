@@ -11,7 +11,7 @@ Model Packages
 `respy <https://github.com/OpenSourceEconomics/respy>`_
 *******************************************************
 
-respy is an open-source Python package for the simulation and estimation of a prototypical finite-horizon discrete choice dynamic programming model. It covers a range of models typically used in structural labor economics. Among the most notable examples are the models presented in `Keane and Wolpin (1994, 1997) <file:///home/sebastian/Desktop/team_meeting/struct-resources/docs/build/html/bibliography.html>`_.
+respy is an open-source Python package for the simulation and estimation of a prototypical finite-horizon discrete choice dynamic programming model. It covers a range of models typically used in structural labor economics. Among the most notable examples are the models presented in `Keane and Wolpin (1994, 1997) <https://struct-resources.readthedocs.io/en/latest/bibliography.html>`_.
 
 If you are interested in using respy for your own work, check out the comprehensive `online documentation <https://respy.readthedocs.io/en/latest/>`_
 
@@ -19,7 +19,7 @@ If you are interested in using respy for your own work, check out the comprehens
 `grmpy <https://github.com/OpenSourceEconomics/grmpy>`_
 ********************************************************
 
-grmpy is an open-source package for the simulation and estimation of the generalized Roy model. It serves as a teaching tool to promote the conceptual framework of the generalized Roy model, illustrate a variety of issues in the econometrics of policy evaluation, and showcase basic software engineering practices. The developers build mainly on scientific contributions by `Abbring and Heckman (2007) <file:///home/sebastian/Desktop/team_meeting/struct-resources/docs/build/html/bibliography.html>`_ and `Heckman and Vytlacil (2007a, 2007b) <file:///home/sebastian/Desktop/team_meeting/struct-resources/docs/build/html/bibliography.html>`_.
+grmpy is an open-source package for the simulation and estimation of the generalized Roy model. It serves as a teaching tool to promote the conceptual framework of the generalized Roy model, illustrate a variety of issues in the econometrics of policy evaluation, and showcase basic software engineering practices. The developers build mainly on scientific contributions by `Abbring and Heckman (2007) <https://struct-resources.readthedocs.io/en/latest/bibliography.html>`_ and `Heckman and Vytlacil (2007a, 2007b) <https://struct-resources.readthedocs.io/en/latest/bibliography.html>`_.
 
 If you are interested in using grmpy for your own work, check out the `online documentation <https://grmpy.readthedocs.io/en/latest/>`_
 
@@ -27,7 +27,7 @@ If you are interested in using grmpy for your own work, check out the `online do
 `soepy <https://github.com/OpenSourceEconomics/soepy>`_
 *******************************************************
 
-soepy is an open-source Python package for the simulation and estimation of a dynamic model of human capital accumulation tailored to the German Socio-Economic Panel (SOEP). It is based on the seminal paper by `Blundell, Dias, Meghir and Shaw. (2016) <file:///home/sebastian/Desktop/team_meeting/struct-resources/docs/build/html/bibliography.html>`_.
+soepy is an open-source Python package for the simulation and estimation of a dynamic model of human capital accumulation tailored to the German Socio-Economic Panel (SOEP). It is based on the seminal paper by `Blundell, Dias, Meghir and Shaw. (2016) <https://struct-resources.readthedocs.io/en/latest/bibliography.html>`_.
 
 If you are interested in using soepy for your own work, check out the `online repository <https://github.com/OpenSourceEconomics/soepy>`_
 
