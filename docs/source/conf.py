@@ -60,8 +60,8 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "struct-resources"
-copyright_ = "2019, Open Source Economics"
+project = "ose-resources"
+copyright_ = "2020, Open Source Economics"
 author = "Open Source Economics team"
 
 # The version info for the project you're documenting, acts as replacement for
@@ -113,7 +113,7 @@ html_static_path = []
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "struct-resourcesdoc"
+htmlhelp_basename = "ose-resourcesdoc"
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -137,7 +137,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, "struct-resources.tex", "struct-resources Documentation", "Development Team", "manual")
+    (master_doc, "ose-resources.tex", "ose-resources Documentation", "Development Team", "manual")
 ]
 
 
@@ -145,7 +145,7 @@ latex_documents = [
 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
-man_pages = [(master_doc, "struct-resources", "struct-resources Documentation", [author], 1)]
+man_pages = [(master_doc, "ose-resources", "ose-resources Documentation", [author], 1)]
 
 
 # -- Options for Texinfo output -------------------------------------------
@@ -156,10 +156,10 @@ man_pages = [(master_doc, "struct-resources", "struct-resources Documentation", 
 texinfo_documents = [
     (
         master_doc,
-        "struct-resources",
-        "struct-resources Documentation",
+        "ose-resources",
+        "ose-resources Documentation",
         author,
-        "struct-resources",
+        "ose-resources",
         "One line description of project.",
         "Miscellaneous",
     )
