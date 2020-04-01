@@ -21,10 +21,10 @@ DellaVigna, S. (2018). `Chapter 7 - Structural Behavioral Economics. <http://www
 
 Keane, M. P., Todd, P.E. and Wolpin, K. I. (2011). `Chapter 4 - The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications. <http://www.sciencedirect.com/science/article/pii/S0169721811004102>`_ In O. Ashenfelter and D. Card (Eds.), *Handbook of Labor Economics* (Vol. 4, p. 331 - 461). Elsevier Science.
 
-Ramalho, L. (2015). `*Fluent Python. Clear, concise, and effective programming.* <https://www.amazon.de/Fluent-Python-Luciano-Ramalho/dp/1491946008>`_ O'Reilly Media, Inc., Sebastopol, CA.
+Ramalho, L. (2015). `Fluent Python. Clear, concise, and effective programming. <https://www.amazon.de/Fluent-Python-Luciano-Ramalho/dp/1491946008>`_ O'Reilly Media, Inc., Sebastopol, CA.
 
-Rossant, C. (2018). `*IPython interactive computing and visualization cookbook.* <https://www.packtpub.com/eu/big-data-and-business-intelligence/ipython-interactive-computing-and-visualization-cookbook-second-e>`_ Packt Publishing, Birmingham, England.
+Rossant, C. (2018). `IPython interactive computing and visualization cookbook. <https://www.packtpub.com/eu/big-data-and-business-intelligence/ipython-interactive-computing-and-visualization-cookbook-second-e>`_ Packt Publishing, Birmingham, England.
 
-VanderPlas, J. (2016). `*Python data science handbook.* <https://www.oreilly.com/library/view/python-data-science/9781491912126/>`_ O'Reilly Media, Inc., Sebastopol, CA.
+VanderPlas, J. (2016). `Python data science handbook. <https://www.oreilly.com/library/view/python-data-science/9781491912126/>`_ O'Reilly Media, Inc., Sebastopol, CA.
 
 
