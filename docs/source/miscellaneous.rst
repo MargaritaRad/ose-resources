@@ -11,6 +11,9 @@ Scientific Programming
 
 The Scipy lecture notes provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
 
+Textbooks
+----------
+
 Ramalho, L. (2015). `Fluent Python. Clear, concise, and effective programming. <https://www.amazon.de/Fluent-Python-Luciano-Ramalho/dp/1491946008>`_ O'Reilly Media, Inc., Sebastopol, CA.
 
 Rossant, C. (2018). `IPython interactive computing and visualization cookbook. <https://www.packtpub.com/eu/big-data-and-business-intelligence/ipython-interactive-computing-and-visualization-cookbook-second-e>`_ Packt Publishing, Birmingham, England.
@@ -19,8 +22,8 @@ VanderPlas, J. (2016). `Python data science handbook. <https://www.oreilly.com/l
 
 
 
-Literature:
------------
+Economics
+----------
 
 Aguirregabiria, V. and Mira, P. (2010). `Dynamic Discrete Choice Structural Models: A Survey. <https://www.sciencedirect.com/science/article/pii/S0304407609001985>`_, *Journal of Econometrics*, 156(1): 38 - 67
 
