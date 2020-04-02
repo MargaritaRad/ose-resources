@@ -12,7 +12,7 @@ Scientific Programming
 The Scipy lecture notes provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
 
 Textbooks
-----------
+**********
 
 Ramalho, L. (2015). `Fluent Python. Clear, concise, and effective programming. <https://www.amazon.de/Fluent-Python-Luciano-Ramalho/dp/1491946008>`_ O'Reilly Media, Inc., Sebastopol, CA.
 
