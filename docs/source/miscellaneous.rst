@@ -14,7 +14,7 @@ The Scipy lecture notes provide an excellent starting point for everyone interes
 Version Control
 ****************
 
-`Learn Git with GitKraken <https://www.gitkraken.com/resources/learn-git>`_
+The `GitKraken <https://www.gitkraken.com/resources/learn-git>`_ video tutorial series provides you with the knowledge needed to start using Git. It covers the absolute basics as well as advanced procedures involving Git. The course consists of 15 concise videos split into three difficulty levels, all of which can be watched in under an hour.
 
 Textbooks
 **********
