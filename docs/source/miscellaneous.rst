@@ -11,6 +11,11 @@ Scientific Programming
 
 The Scipy lecture notes provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
 
+Version Control
+****************
+
+`Learn Git with GitKraken <https://www.gitkraken.com/resources/learn-git>`_
+
 Textbooks
 **********
 
