@@ -6,10 +6,10 @@ In this section we present some additional resources as well as a short list of 
 Scientific Programming
 ----------------------
 
-`Scipy Lecture Notes <https://scipy-lectures.org/>`_
-*****************************************************
+Scipy Lecture Notes
+********************
 
-The Scipy lecture notes provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
+The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
 
 Version Control
 ****************
