@@ -16,6 +16,10 @@ Jupyter Lab
 
 `Jupyter Lab <https://jupyterlab.readthedocs.io>`_ s a web-based interactive development environment for Jupyter notebooks, code, and data. JupyterLab is flexible: configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning. JupyterLab is extensible and modular: write plugins that add new components and integrate with existing ones.
 
+**Resources**
+
+* `JupyterLab — A Next Gen Python Data Science IDE <https://towardsdatascience.com/jupyterlab-a-next-gen-python-data-science-ide-562d216b023d>` 
+
 Version Control
 ****************
 
