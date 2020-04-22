@@ -27,10 +27,25 @@ Version Control
 
 The `GitKraken <https://www.gitkraken.com/resources/learn-git>`_ video tutorial series provides you with the knowledge needed to start using Git. It covers the absolute basics as well as advanced procedures involving Git. The course consists of 15 concise videos split into three difficulty levels, all of which can be watched in under an hour.
 
-Scipy Lecture Notes
-********************
+SciPy
+*****
+
+`SciPy <https://www.scipy.org>`_ is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages: numpy, scipy, matplotlib, and pandas.
 
 The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
+
+**Resources**
+
+* `Pandas is for Everyone <https://youtu.be/3qDhDXNRgHE>`_
+
+* `Introduction to Numerical Computing with NumPy <https://youtu.be/ZB7BZMhfPgk>`_
+
+* `Exploratory data analysis in python <https://youtu.be/W5WE9Db2RLU>`_
+
+statsmodels
+***********
+
+`statsmodels <https://www.statsmodels.org>`_ is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator. The results are tested against existing statistical packages to ensure that they are correct.
 
 Textbooks
 **********
