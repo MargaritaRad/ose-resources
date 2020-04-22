@@ -18,7 +18,7 @@ Jupyter Lab
 
 **Resources**
 
-* `JupyterLab — A Next Gen Python Data Science IDE <https://towardsdatascience.com/jupyterlab-a-next-gen-python-data-science-ide-562d216b023d>` 
+* `JupyterLab — A Next Gen Python Data Science IDE <https://towardsdatascience.com/jupyterlab-a-next-gen-python-data-science-ide-562d216b023d>`_ 
 
 Version Control
 ****************
