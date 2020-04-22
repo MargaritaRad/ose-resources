@@ -6,15 +6,25 @@ In this section we present some additional resources as well as a short list of 
 Scientific Programming
 ----------------------
 
-Scipy Lecture Notes
-********************
+Anaconda Distribution
+*********************
 
-The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
+The open-source `Anaconda Individual Edition <https://www.anaconda.com/distribution>`_ is the easiest way to perform Python/R data science and machine learning on Linux, Windows, and Mac OS X. With over 19 million users worldwide, it is the industry standard for developing, testing, and training on a single machine.
+
+Jupyter Lab
+***********
+
+`Jupyter Lab <https://jupyterlab.readthedocs.io>`_ s a web-based interactive development environment for Jupyter notebooks, code, and data. JupyterLab is flexible: configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning. JupyterLab is extensible and modular: write plugins that add new components and integrate with existing ones.
 
 Version Control
 ****************
 
 The `GitKraken <https://www.gitkraken.com/resources/learn-git>`_ video tutorial series provides you with the knowledge needed to start using Git. It covers the absolute basics as well as advanced procedures involving Git. The course consists of 15 concise videos split into three difficulty levels, all of which can be watched in under an hour.
+
+Scipy Lecture Notes
+********************
+
+The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
 
 Textbooks
 **********
@@ -26,7 +36,6 @@ Rossant, C. (2018). `IPython interactive computing and visualization cookbook. <
 VanderPlas, J. (2016). `Python data science handbook. <https://www.oreilly.com/library/view/python-data-science/9781491912126/>`_ O'Reilly Media, Inc., Sebastopol, CA.
 
 
-
 Economics
 ----------
 
@@ -35,4 +44,3 @@ Aguirregabiria, V. and Mira, P. (2010). `Dynamic Discrete Choice Structural Mode
 DellaVigna, S. (2018). `Chapter 7 - Structural Behavioral Economics. <http://www.sciencedirect.com/science/article/pii/S235223991830006X>`_ In B. D. Bernheim, S. DellaVigna and D. Laibson (Eds.), *Handbook of Behavioral Economics - Foundations and Applications 1* (Vol. 1, p. 613 - 723), Elsevier.
 
 Keane, M. P., Todd, P.E. and Wolpin, K. I. (2011). `Chapter 4 - The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications. <http://www.sciencedirect.com/science/article/pii/S0169721811004102>`_ In O. Ashenfelter and D. Card (Eds.), *Handbook of Labor Economics* (Vol. 4, p. 331 - 461). Elsevier Science.
-
