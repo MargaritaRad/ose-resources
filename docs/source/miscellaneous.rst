@@ -14,7 +14,7 @@ The open-source `Anaconda Individual Edition <https://www.anaconda.com/distribut
 Jupyter Lab
 ***********
 
-`Jupyter Lab <https://jupyterlab.readthedocs.io>`_ s a web-based interactive development environment for Jupyter notebooks, code, and data. JupyterLab is flexible: configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning. JupyterLab is extensible and modular: write plugins that add new components and integrate with existing ones.
+`Jupyter Lab <https://jupyterlab.readthedocs.io>`_ is a web-based interactive development environment for Jupyter notebooks, code, and data. JupyterLab is flexible: configure and arrange the user interface to support a wide range of workflows in data science, scientific computing, and machine learning. JupyterLab is extensible and modular: write plugins that add new components and integrate with existing ones.
 
 **Resources**
 
@@ -62,7 +62,7 @@ VanderPlas, J. (2016). `Python data science handbook. <https://www.oreilly.com/l
 Economics
 ----------
 
-Aguirregabiria, V. and Mira, P. (2010). `Dynamic discrete choice structural models: A survey. <https://www.sciencedirect.com/science/article/pii/S0304407609001985>`_, *Journal of Econometrics*, 156(1): 38 - 67
+Aguirregabiria, V. and Mira, P. (2010). `Dynamic discrete choice structural models: A survey. <https://www.sciencedirect.com/science/article/pii/S0304407609001985>`_ *Journal of Econometrics*, 156(1): 38 - 67
 
 DellaVigna, S. (2018). `Chapter 7 - Structural behavioral economics. <http://www.sciencedirect.com/science/article/pii/S235223991830006X>`_ In B. D. Bernheim, S. DellaVigna and D. Laibson (Eds.), *Handbook of Behavioral Economics - Foundations and Applications 1* (Vol. 1, p. 613 - 723), Elsevier.
 
