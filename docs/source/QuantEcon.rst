@@ -5,23 +5,25 @@ QuantEcon
 
 The most notable links you should check out are:
 
-`Introduction to Python <https://lectures.quantecon.org/py/index_learning_python.html>`_
-----------------------------------------------------------------------------------------
-This will guide you through the set-up of Python on your computer, explain the basic syntax and data structures. It is quite fast paced but self-contained.
+Introduction to Python
+----------------------
 
-`Scientific Python Libraries <https://lectures.quantecon.org/py/index_python_scientific_libraries.html>`_
----------------------------------------------------------------------------------------------------------
+`This <https://lectures.quantecon.org/py/index_learning_python.html>`_ will guide you through the set-up of Python on your computer, explain the basic syntax and data structures. It is quite fast paced but self-contained.
 
-The core Python language is not designed for scientific computing. Instead, this is delegated to other packages. Here you will get an overview of the main Python packages you will need:
+Scientific Python Libraries
+----------------------------
 
-* `Numpy: <https://docs.scipy.org/doc/numpy/>`_ provides multi-dimensional arrays and functions to work on them.
+The core Python language is not designed for scientific computing. Instead, this is delegated to other packages. `Here <https://lectures.quantecon.org/py/index_python_scientific_libraries.html>`_ you will get an overview of the main Python packages you will need:
 
-* `Matplotlib: <https://matplotlib.org/>`_ simple plotting in Python. While it is good to understand the basics of matplotlib, we would suggest that users use the much simpler seaborn library that builds on top of matplotlib and produces beautiful graphs out of the box
+* ``numpy`` provides multi-dimensional arrays and functions to work on them. Check out the `online documentation <https://docs.scipy.org/doc/numpy/>`_.
 
-* `Scipy: <https://docs.scipy.org/doc/scipy-1.3.0/reference/>`_ Toolkit for scientific computing. Examples are optimization, numerical integration and random number generation.
-`Numba: <https://numba.pydata.org/numba-doc/latest/index.html>`_ A just in time compiler for Python that can make Python about as fast as Fortran or C. Seriously, try it out. It's amazing!
+* ``matplotlib`` is for simple plotting in Python. While it is good to understand the basics of matplotlib, we would suggest that users use the much simpler seaborn library that builds on top of matplotlib and produces beautiful graphs out of the box. Check out the `online documentation <https://matplotlib.org/>`_.
 
-`Dynamic Programming <https://lectures.quantecon.org/py/index_dynamic_programming.html>`_
----------------------------------------------------------------------------------------------------------
+* ``scipy`` is a toolkit for scientific computing. Examples are optimization, numerical integration and random number generation. Check out the `online documentation <https://docs.scipy.org/doc/scipy-1.4.1/reference/>`_.
 
-A great introduction into the theory and implementation of simple dynamic programming models.
+* ``numba`` is a just in time compiler for Python that can make Python about as fast as Fortran or C. Seriously, try it out. It's amazing! Check out the `online documentation  <https://numba.pydata.org/numba-doc/latest/index.html>`_.
+
+Dynamic Programming
+-------------------
+
+A `great introduction <https://lectures.quantecon.org/py/index_dynamic_programming.html>`_ into the theory and implementation of simple dynamic programming models.

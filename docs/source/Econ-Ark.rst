@@ -15,16 +15,18 @@ Originally, Econ-ARK was mainly targeted at macroeconomic applications, but is n
 
 The main features of Econ-ARK are:
 
-`HARK <https://github.com/econ-ark/HARK>`_
-------------------------------------------
+HARK
+----
 
-The `Heterogeneous Agents Resources and Toolkit (HARK) <https://github.com/econ-ark/HARK>`_ is motivated by a sense that quantitative structural modeling of economic agents' behavior (consumers; firms), at present, is roughly like econometric modeling in the 1960s: Lots of theoretical results are available and a great deal can be done in principle, but actually using such tools for any specific research question requires an enormous investment of a scholar's time and attention to learn techniques that are fundamentally not related to economics but instead are algorithmic/computational (in the 1960s, e.g., inverting matrices; now, e.g., solving dynamic stochastic optimization problems). The toolkit is built using the suite of open source, transparent tools for collaborative software development that have become ubiquitous in other fields in the last few years: Github, object-oriented coding, and methods that make it much easier to produce plug-and-play software modules that can be (relatively) easily combined, enhanced and adapted to address new problems.
+``econ-ark``, the `Heterogeneous Agents Resources and Toolkit (HARK) <https://github.com/econ-ark/HARK>`_ is motivated by a sense that quantitative structural modeling of economic agents' behavior (consumers; firms), at present, is roughly like econometric modeling in the 1960s: Lots of theoretical results are available and a great deal can be done in principle, but actually using such tools for any specific research question requires an enormous investment of a scholar's time and attention to learn techniques that are fundamentally not related to economics but instead are algorithmic/computational (in the 1960s, e.g., inverting matrices; now, e.g., solving dynamic stochastic optimization problems). The toolkit is built using the suite of open source, transparent tools for collaborative software development that have become ubiquitous in other fields in the last few years: Github, object-oriented coding, and methods that make it much easier to produce plug-and-play software modules that can be (relatively) easily combined, enhanced and adapted to address new problems.
+
+Check out the `online documentation <https://hark.readthedocs.io/en/latest/>`_.
 
 
-`REMARK <https://github.com/econ-ark/REMARK>`_
-----------------------------------------------
+REMARK
+------
 
-This is the resting place for self-contained and complete projects written using the Econ-ARK. The content here should be executable by anyone with a suitably configured computer (see "Installation.md" in this directory).
+`This <https://github.com/econ-ark/REMARK>`_ is the resting place for self-contained and complete projects written using the Econ-ARK. The content here should be executable by anyone with a suitably configured computer (see "Installation.md" in this directory).
 
 Types of content include (see below for elaboration):
 
