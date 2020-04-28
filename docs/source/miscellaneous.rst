@@ -30,7 +30,7 @@ The `GitKraken <https://www.gitkraken.com/resources/learn-git>`_ video tutorial 
 SciPy
 *****
 
-`SciPy <https://www.scipy.org>`_ is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages: numpy, scipy, matplotlib, and pandas.
+`SciPy <https://www.scipy.org>`_ is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages: ``numpy``, ``scipy``, ``matplotlib``, and ``pandas``.
 
 The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
 
@@ -45,7 +45,9 @@ The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent st
 statsmodels
 ***********
 
-`statsmodels <https://www.statsmodels.org>`_ is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator. The results are tested against existing statistical packages to ensure that they are correct.
+``statsmodels`` is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator. The results are tested against existing statistical packages to ensure that they are correct.
+
+Check out the `online documentation <https://www.statsmodels.org>`_.
 
 Textbooks
 **********
@@ -60,8 +62,8 @@ VanderPlas, J. (2016). `Python data science handbook. <https://www.oreilly.com/l
 Economics
 ----------
 
-Aguirregabiria, V. and Mira, P. (2010). `Dynamic Discrete Choice Structural Models: A Survey. <https://www.sciencedirect.com/science/article/pii/S0304407609001985>`_, *Journal of Econometrics*, 156(1): 38 - 67
+Aguirregabiria, V. and Mira, P. (2010). `Dynamic discrete choice structural models: A survey. <https://www.sciencedirect.com/science/article/pii/S0304407609001985>`_, *Journal of Econometrics*, 156(1): 38 - 67
 
-DellaVigna, S. (2018). `Chapter 7 - Structural Behavioral Economics. <http://www.sciencedirect.com/science/article/pii/S235223991830006X>`_ In B. D. Bernheim, S. DellaVigna and D. Laibson (Eds.), *Handbook of Behavioral Economics - Foundations and Applications 1* (Vol. 1, p. 613 - 723), Elsevier.
+DellaVigna, S. (2018). `Chapter 7 - Structural behavioral economics. <http://www.sciencedirect.com/science/article/pii/S235223991830006X>`_ In B. D. Bernheim, S. DellaVigna and D. Laibson (Eds.), *Handbook of Behavioral Economics - Foundations and Applications 1* (Vol. 1, p. 613 - 723), Elsevier.
 
-Keane, M. P., Todd, P.E. and Wolpin, K. I. (2011). `Chapter 4 - The Structural Estimation of Behavioral Models: Discrete Choice Dynamic Programming Methods and Applications. <http://www.sciencedirect.com/science/article/pii/S0169721811004102>`_ In O. Ashenfelter and D. Card (Eds.), *Handbook of Labor Economics* (Vol. 4, p. 331 - 461). Elsevier Science.
+Keane, M. P., Todd, P.E. and Wolpin, K. I. (2011). `Chapter 4 - The structural estimation of behavioral models: Discrete choice dynamic programming methods and applications. <http://www.sciencedirect.com/science/article/pii/S0169721811004102>`_ In O. Ashenfelter and D. Card (Eds.), *Handbook of Labor Economics* (Vol. 4, p. 331 - 461). Elsevier Science.

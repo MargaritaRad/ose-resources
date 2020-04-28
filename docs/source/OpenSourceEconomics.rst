@@ -8,12 +8,12 @@ The following list provides an overview of the flagship projects:
 Model Packages
 --------------
 
-`respy <https://github.com/OpenSourceEconomics/respy>`_
+`respy <https://github.com/OpenSourceEconomics/respy>`_.
 *******************************************************
 
 ``respy`` is an open-source Python package for the simulation and estimation of a prototypical finite-horizon discrete choice dynamic programming model. It covers a range of models typically used in structural labor economics. Among the most notable examples are the models presented in `Keane and Wolpin (1994, 1997) <https://ose-resources.readthedocs.io/en/latest/bibliography.html>`_.
 
-If you are interested in using respy for your own work, check out the comprehensive `online documentation <https://respy.readthedocs.io/en/latest/>`_
+If you are interested in using respy for your own work, check out the comprehensive `online documentation <https://respy.readthedocs.io/en/latest/>`_.
 
 
 `grmpy <https://github.com/OpenSourceEconomics/grmpy>`_
@@ -24,7 +24,7 @@ If you are interested in using respy for your own work, check out the comprehens
 If you are interested in using grmpy for your own work, check out the `online documentation <https://grmpy.readthedocs.io/en/latest/>`_
 
 
-`soepy <https://github.com/OpenSourceEconomics/soepy>`_
+`soepy <https://github.com/OpenSourceEconomics/soepy>`_.
 *******************************************************
 
 ``soepy`` is an open-source Python package for the simulation and estimation of a dynamic model of human capital accumulation tailored to the German Socio-Economic Panel (SOEP). It is based on the seminal paper by `Blundell, Dias, Meghir and Shaw. (2016) <https://ose-resources.readthedocs.io/en/latest/bibliography.html>`_.
@@ -40,4 +40,4 @@ Tool Packages
 
 ``estimagic`` is a Python package that helps to build high-quality and user friendly implementations of (structural) econometric models. It is designed with large structural models in mind. However, it is also useful for any other estimator that numerically minimizes or maximizes a criterion function (Extremum Estimator). Examples are maximum likelihood estimation, generalized method of moments, method of simulated moments and indirect inference. It is in a very early stage and should not be used for major projects yet. However, we do encourage interested users to try it out, report bugs and provide feedback.
 
-If you are interested, check out the `online documentation <https://estimagic.readthedocs.io/en/latest/>`_
+If you are interested, check out the `online documentation <https://estimagic.readthedocs.io/en/latest/>`_.
