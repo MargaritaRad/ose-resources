@@ -32,7 +32,10 @@ SciPy
 
 `SciPy <https://www.scipy.org>`_ is a Python-based ecosystem of open-source software for mathematics, science, and engineering. In particular, these are some of the core packages: ``numpy``, ``scipy``, ``matplotlib``, and ``pandas``.
 
-The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely numpy, scipy and matplotlib. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
+SciPy Lecture Notes
+*******************
+
+The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent starting point for everyone interested in scientific programming in Python. They cover the main scientific packages of the Python ecosystem, namely ``numpy``, ``scipy`` and ``matplotlib``. Each chapter corresponds to a 1 to 2 hour course with the level of expertise increasing from beginner to expert.
 
 **Resources**
 
@@ -41,6 +44,11 @@ The `Scipy lecture notes <https://scipy-lectures.org/>`_ provide an excellent st
 * `Introduction to Numerical Computing with NumPy <https://youtu.be/ZB7BZMhfPgk>`_
 
 * `Exploratory data analysis in python <https://youtu.be/W5WE9Db2RLU>`_
+
+Software Carpentry
+******************
+
+`Software Carpentry <https://software-carpentry.org/>`_ teaches researchers the computing skills they need to get more done in less time and with less pain. They have a lot of useful lessons on many different topics like Python and R programming or the Unix shell.
 
 statsmodels
 ***********

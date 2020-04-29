@@ -11,7 +11,7 @@ The primary goals of the project are:
 
 Econ-Ark is headed by `Christopher D. Carroll <https://econ.jhu.edu/directory/christopher-carroll/>`_, Professor of Economics at the Johns Hopkins University.
 
-Originally, Econ-ARK was mainly targeted at macroeconomic applications, but is now extending their tools to support typical microeconomic models.
+Originally, ``econ-ark`` was mainly targeted at macroeconomic applications, but is now extending their tools to support typical microeconomic models.
 
 The main features of Econ-ARK are:
 
@@ -30,6 +30,6 @@ REMARK
 
 Types of content include (see below for elaboration):
 
-- Explorations: Use the Econ-ARK/HARK toolkit to demonstrate some set of modeling ideas
+- Explorations: Use the ``econ-ark``/HARK toolkit to demonstrate some set of modeling ideas
 - Replications: Attempts to replicate the results of published papers written using other tools
 - Reproductions: Code that reproduces the results of some paper that was originally written using the toolkit
